@@ -2336,6 +2336,10 @@
 			display: block;
 		}
 
+		.image.leftlogo {
+			width: 60%;
+		}
+
 		.image.left, .image.right {
 			max-width: 40%;
 		}
